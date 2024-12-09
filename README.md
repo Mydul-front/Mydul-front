@@ -1,15 +1,30 @@
-## Hi there 👋
+![Web Devloper](https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/310951335_648610636976416_55485377538931135_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHA64gPvGmm6-pW2Ho40zmgpfLg9ZwjwNql8uD1nCPA2qTxDvrGpyRlE-XjeM0vKQOLBzOstXlyLR1D7zAWsmBw&_nc_ohc=Pw2n1tOTXusQ7kNvgEMDL3C&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=AXFCXXjZ-BTHh27LvlBojQS&oh=00_AYDlHpb0am6x8K0B5MMcmQdQy6PeVC9jjDsP6Uo4TrSfPA&oe=675C9E1D)
+##### Hi there 👋, My name is Mydul Islam
+#### Web Devloper
+
+I am a passionate and detail-oriented Front-End Web Developer with a strong focus on creating visually appealing, user-friendly, and responsive websites. I specialize in turning ideas into reality through clean and efficient code, leveraging technologies like HTML, CSS, JavaScript, and modern frameworks such as React or Vue.js.
+
+Skills: JS / HTML / CSS/ Python
+
+- 🔭 I’m currently working on Student 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Devlopment 
 
 
-**Mydul-front/Mydul-front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mydul-front)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mydul42/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md. Mydul Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miran4243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@mydul4208)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mydul-front)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mydul-front)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mydul-front&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mydul-front/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Mydul-front)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mydul-front)  
+
